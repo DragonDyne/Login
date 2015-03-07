@@ -219,7 +219,7 @@ pip-log.txt
 ############
 ##IntelliJ
 ############
-/.idea/*
+.idea/*
 *.iml
 *.iws
 settings.xml
